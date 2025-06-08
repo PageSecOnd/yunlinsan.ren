@@ -1,0 +1,32 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "云林散人的小站",
+  "home_page_url": "https://yunlinsan.ren/",
+  "feed_url": "https://yunlinsan.ren/feed.json",
+  "description": "云起云归皆有意，林深梦远自悠然",
+  "icon": "https://yunlinsan.ren/avatar-another.png",
+  "favicon": "https://yunlinsan.ren/favicon.svg",
+  "authors": [
+    {
+      "name": "云林散人",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://yunlinsan.ren/posts/Interstellar",
+      "url": "https://yunlinsan.ren/posts/Interstellar",
+      "title": "星际穿越",
+      "content_html": "<fetchMovieInfo movie=\"Interstellar\" />\n<ul>\n<li><strong>观看日期</strong>:: <img src=\"https://img.shields.io/badge/Date-2025--06--05-orange\" alt=\"Date-2025-06-05\"></li>\n<li><strong>观看方式</strong>:: <img src=\"https://img.shields.io/badge/HDD-12TB-blue\" alt=\"硬盘\"></li>\n<li><strong>质量</strong>:: <img src=\"https://img.shields.io/badge/4K%20UHD-Blu--Ray-blue\" alt=\"4K UHD Full Blu-Ray\"></li>\n</ul>\n<br/><p>访问 <a href=\"https://yunlinsan.ren/posts/Interstellar\" target=\"_blank\">https://yunlinsan.ren/posts/Interstellar</a> 阅读全文。</p>",
+      "date_published": "2025-06-08T04:44:34.039Z",
+      "date_modified": "2025-06-05T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "云林散人",
+          "url": "https://valaxy.site"
+        }
+      ],
+      "attachments": []
+    }
+  ]
+}

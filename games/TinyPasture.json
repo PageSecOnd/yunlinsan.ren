@@ -1,0 +1,47 @@
+{
+  "name": "动物栏：桌面牧场",
+  "hero": "https://shared.steamstatic.com/store_item_assets/steam/apps/3167550/79f926fe92b6934d39e67fbb25cdbad9f7b81d48/library_hero_2x.jpg",
+  "logo": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3167550/399428a353de10d1caa4145dd07515a39e567e4a.ico",
+  "alias": "Tiny Pasture",
+  "types": ["挂机游戏", "农场模拟", "可爱", "像素图形", "点击游戏"],
+  "status": "在玩",
+  "rating": "⭐⭐⭐⭐| 佳作",
+  "achievement_progress": 24,
+  "achievement_total": 55,
+  "price": "¥30.54",
+  "channel": "Steam - 微信支付",
+  "platform": "Steam",
+  "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/3167550/header_2x.jpg",
+  "steamdb": "https://steamdb.info/app/3167550/",
+  "steam": "https://store.steampowered.com/app/3167550/_/",
+  "played_hours": "42.1",
+  "progress_achievement": false,
+  "progress_collection": false,
+  "guides": [
+    {
+      "type": "strategy",
+      "title": "Tiny Pasture Walkthrough and Guide - Neoseeker",
+      "url": "https://www.neoseeker.com/tiny-pasture/walkthrough"
+    },
+    {
+      "type": "patch",
+      "title": "Tiny Pasture Patches and Updates · SteamDB",
+      "url": "https://steamdb.info/app/3167550/patchnotes/"
+    },
+    {
+      "type": "fandom",
+      "title": "目前不存在",
+      "url": "null"
+    },
+    {
+      "type": "pcgamingwiki",
+      "title": "目前不存在",
+      "url": "null"
+    }
+  ],
+  "tips": "",
+  "brief": "",
+  "highlights": [""],
+  "cons": [""],
+  "note": ""
+}

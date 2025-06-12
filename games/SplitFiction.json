@@ -1,0 +1,56 @@
+{
+  "name": "Split Fiction",
+  "hero": "https://shared.steamstatic.com/store_item_assets/steam/apps/2001120/a8332cc05ec2fd0210ba39d19b7e2dc0ba93f135/library_hero_2x.jpg",
+  "logo": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2001120/6fd23d595c8bacaf8d6eceb96af80ec551d83831.ico",
+  "alias": "双影奇境",
+  "types": ["3D平台", "分屏", "动作冒险", "合作", "女性主角"],
+  "status": "在玩",
+  "rating": "⭐⭐⭐⭐⭐| 必玩！",
+  "achievement_progress": 20,
+  "achievement_total": 20,
+  "price": "¥164.34",
+  "channel": "淘宝 - 礼物",
+  "platform": "Steam",
+  "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/2001120/header_2x.jpg",
+  "steamdb": "https://steamdb.info/app/2001120/",
+  "steam": "https://store.steampowered.com/app/2001120/_/",
+  "played_hours": "11.7",
+  "progress_achievement": false,
+  "progress_collection": false,
+  "guides": [
+    {
+      "type": "strategy",
+      "title": "【双影奇境】4K 最高画质 全任务 全收集 全剧情流程通关攻略",
+      "url": "https://www.bilibili.com/video/BV1AmRKYBEXQ/?spm_id_from=333.337.search-card.all.click"
+    },
+    {
+      "type": "patch",
+      "title": "Split Fiction Patches and Updates · SteamDB",
+      "url": "https://steamdb.info/app/2001120/patchnotes/"
+    },
+    {
+      "type": "fandom",
+      "title": "Split Fiction Wiki | Fandom",
+      "url": "https://split-fiction.fandom.com/wiki/Split_Fiction_Wiki"
+    },
+    {
+      "type": "pcgamingwiki",
+      "title": "Split Fiction - PCGamingWiki",
+      "url": "https://www.pcgamingwiki.com/wiki/Split_Fiction"
+    }
+  ],
+  "tips": "得找个好哥们！",
+  "brief": "非常推荐，可以说本作超越了前作，达到了新的高度。\n\n角度新颖，从两位素不相识的作家起手故事，经历赛博朋克，科幻宇宙，奇幻世界。从经历枪林弹雨的未来战士到骑龙飞翔的驯龙高手，无不吸引着玩家继续游玩。而主线中贯穿的支线世界，从变成猪、变成烤肠，到变成糖果、战胜牙医boss，无不彰显着制作组精湛的叙事能力和天马行空的想象力。\n\n相较前作，本作操作难度些许上升。但是更多的游戏玩法却弥补了这个缺点。在赛博朋克城市里狂飙、拯救章鱼boss时的上天入海，肾上腺素飙升的同时更能体会到游戏的刺激。本作的视角也千变万化，从2D平台跳跃到3D世界探索，可以说应有尽有。\n\n本作的彩蛋也极为丰富。让我印象最深刻的就是万圣节找猫猫主题的一个支线世界里，城镇里的基本每一个元素都可以互动。你可以拿着魔法棒把城镇里的居民、甚至你的游戏搭子变成板凳、鱼、青蛙。也可以调制可以变成不同东西的魔药，可以放烟花，也可以骑蜗牛......\n\n另一个加分点是制作组对中文的支持。在手绘的一个支线世界里制作组甚至贴心的用上了手写的中文！无疑彰显了制作组对中国市场的重视。\n\n看到这儿还等什么？赶紧找你的游戏搭子开始游戏吧！另外如果担心不适合这个游戏的话，好友通行证可以免费玩前面一段故事哦！",
+  "highlights": [
+    "剧情与世界观设计优秀：故事从两位陌生作家的视角展开，跨越赛博朋克、科幻、奇幻等多种风格，支线任务（如变成猪、对战牙医Boss等）充满创意，叙事能力强。",
+    "玩法丰富多样：包含2D跳跃、3D探索、赛车、空战、海战等，体验刺激且不重复，互动元素多（如万圣节支线可变形、放烟花、骑蜗牛等）。",
+    "彩蛋和细节用心：支线世界互动性强（如用魔法棒把NPC变成动物或物品），中文支持到位，部分场景使用手写中文，体现对中国玩家的重视。",
+    "合作体验好：适合好友联机，提供“好友通行证”免费试玩，降低体验门槛。"
+  ],
+  "cons": [
+    "操作难度稍高：相比前作，本作的操作要求更高，可能对部分玩家不友好。",
+    "风格切换较频繁：世界观和玩法变化大（如科幻→奇幻），可能影响沉浸感。",
+    "内容过多可能疲劳：互动和支线任务极其丰富，全收集玩家可能会觉得信息量过大。"
+  ],
+  "note": ""
+}

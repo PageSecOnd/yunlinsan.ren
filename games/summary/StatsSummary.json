@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Cities: Skylines II",
+        "alias": "城市：天际线2",
+        "logo": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/949230/a183d04770e4cc9e6d615ad0f3301609fd23ac9c.ico",
+        "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/949230/library_600x900_2x.jpg",
+        "status": "在玩",
+        "achievement_progress": 12,
+        "achievement_total": 44,
+        "types": [
+            "单人",
+            "城市营造",
+            "建造",
+            "模拟",
+            "沙盒",
+            "管理"
+        ],
+        "rating": "⭐⭐⭐⭐⭐| 必玩！",
+        "price": "¥150.50",
+        "steamdb": "https://steamdb.info/app/949230/",
+        "url": "/games/skylines2"
+    },
+    {
+        "name": "Split Fiction",
+        "alias": "双影奇境",
+        "logo": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/2001120/6fd23d595c8bacaf8d6eceb96af80ec551d83831.ico",
+        "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/2001120/f9b802097eff97ac7edcc92f864d4b9a91516b67/library_600x900_2x.jpg",
+        "status": "在玩",
+        "achievement_progress": 20,
+        "achievement_total": 20,
+        "types": [
+            "3D平台",
+            "分屏",
+            "动作冒险",
+            "合作",
+            "女性主角"
+        ],
+        "rating": "⭐⭐⭐⭐⭐| 必玩！",
+        "price": "¥164.34",
+        "steamdb": "https://steamdb.info/app/2001120/",
+        "url": "/games/SplitFiction"
+    },
+    {
+        "name": "动物栏：桌面牧场",
+        "alias": "Tiny Pasture",
+        "logo": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/3167550/399428a353de10d1caa4145dd07515a39e567e4a.ico",
+        "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/3167550/be11ba120dcfe375013c47b5f21800edbd4471d1/library_600x900_2x.jpg",
+        "status": "在玩",
+        "achievement_progress": 24,
+        "achievement_total": 55,
+        "types": [
+            "挂机游戏",
+            "农场模拟",
+            "可爱",
+            "像素图形",
+            "点击游戏"
+        ],
+        "rating": "⭐⭐⭐⭐| 佳作",
+        "price": "¥30.54",
+        "steamdb": "https://steamdb.info/app/3167550/",
+        "url": "/games/TinyPasture"
+    }
+]

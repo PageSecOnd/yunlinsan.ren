@@ -1,0 +1,47 @@
+{
+  "name": "Cities: Skylines II",
+  "hero": "https://shared.steamstatic.com/store_item_assets/steam/apps/949230/library_hero_2x.jpg",
+  "logo": "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/949230/a183d04770e4cc9e6d615ad0f3301609fd23ac9c.ico",
+  "alias": "城市：天际线2",
+  "types": ["单人", "城市营造", "建造", "模拟", "沙盒", "管理"],
+  "status": "在玩",
+  "rating": "⭐⭐⭐⭐⭐| 必玩！",
+  "achievement_progress": 12,
+  "achievement_total": 44,
+  "price": "¥150.50",
+  "channel": "淘宝",
+  "platform": "Steam",
+  "cover": "https://shared.steamstatic.com/store_item_assets/steam/apps/949230/header_2x.jpg?t=1746722619",
+  "steamdb": "https://steamdb.info/app/949230/",
+  "steam": "https://store.steampowered.com/app/949230/Cities_Skylines_II/",
+  "played_hours": "530.9",
+  "progress_achievement": false,
+  "progress_collection": false,
+  "guides": [
+    {
+      "type": "strategy",
+      "title": "《都市天际线2》这么玩！太挣钱了！！_哔哩哔哩bilibili",
+      "url": "https://www.bilibili.com/video/BV1gN4y1m7BE/?spm_id_from=333.1387.collection.video_card.click&vd_source=90f84c513da02d1feddf793637be46aa"
+    },
+    {
+      "type": "patch",
+      "title": "Cities: Skylines II Patches and Updates · SteamDB",
+      "url": "https://steamdb.info/app/949230/patchnotes/"
+    },
+    {
+      "type": "fandom",
+      "title": "Cities Skylines 2 | Video Game Wiki | Fandom",
+      "url": "https://video-games.fandom.com/wiki/Cities_Skylines_2"
+    },
+    {
+      "type": "pcgamingwiki",
+      "title": "Cities: Skylines II - PCGamingWiki",
+      "url": "https://www.pcgamingwiki.com/wiki/Cities%3A_Skylines_II"
+    }
+  ],
+  "tips": "",
+  "brief": "",
+  "highlights": [""],
+  "cons": [""],
+  "note": ""
+}
